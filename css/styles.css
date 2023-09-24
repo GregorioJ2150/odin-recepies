@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Yantramanav:wght@100&display=swap');
+
+#rata{
+    height: 15%;
+    width: 15%;
+}
+#contendor-principal{
+    background-color: #E7F3EA;
+}
+h1{
+    font-family: "Pacifico";
+    font-size: 250%;
+    font-weight: 300;
+    color: #184D75;     
+}
+h2{
+    font-family: "Delius Swash Caps";
+    color: #8c382a
+}
+
+a{
+    font-family: "Yantramanav";
+    color: #bd5726;
+}
