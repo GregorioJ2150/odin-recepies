@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Yantramanav:wght@300&display=swap');
+
+h1{
+    font-family: "Pacifico";
+    color:#184D75;
+}
+
+h2,h3,a{
+    font-family: "Delius Swash Caps";
+    color:#8c382a;
+}
+
+p,li{
+    font-family: "Yantramanav";
+    color:#8c382a;;
+}
+
+img{
+    border-radius: 50%;
+}

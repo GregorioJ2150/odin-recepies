@@ -1,24 +1,62 @@
-@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Yantramanav:wght@100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Delius+Swash+Caps&family=Pacifico&family=Yantramanav:wght@300&display=swap');
 
 #rata{
-    height: 15%;
-    width: 15%;
+    height: 55%;
+    width: 55%;
 }
 #contendor-principal{
-    background-color: #E7F3EA;
+    background-color: #8f3e1a;
 }
+
+#contenedor-imagen{
+    width: 310px;
+    margin: auto;
+}
+
+#lista-de-recetas{
+    width: 350px;
+    margin:auto;
+    text-align: center;
+}
+
 h1{
     font-family: "Pacifico";
     font-size: 250%;
     font-weight: 300;
-    color: #184D75;     
+    color: #184D75;  
+    width: 250px;   
+    margin: auto;
+    text-align: center;
 }
 h2{
     font-family: "Delius Swash Caps";
-    color: #8c382a
+    color: #8c382a;
+    width: 245px;
+    margin: auto;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: auto;
+    margin: auto;
+    padding-left: 20%;
 }
 
 a{
     font-family: "Yantramanav";
+    font-size: 20px;
     color: #bd5726;
+    text-decoration: none;
+}
+
+ul{
+    list-style: none;
+    display: inline-block;
+    text-align: center;
+    padding: 0%;
+}
+
+a:hover{
+    color: #184D75;
 }
