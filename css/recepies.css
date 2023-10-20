@@ -2,6 +2,7 @@
 
 h1{
     font-family: "Pacifico";
+    font-weight: 300;
     color:#184D75;
 }
 
@@ -17,4 +18,24 @@ p,li{
 
 img{
     border-radius: 50%;
+}
+
+section{
+    border:solid 3px #184D75;
+    display: flex;
+    flex-direction: column;
+}
+
+#container_ingredientes_preparacion{
+display: flex;
+}
+
+#ingredientes{
+    border: solid 2px #8c382a;
+   
+}
+
+#preparacion{
+    border: solid 2px #8c382a;
+    
 }
